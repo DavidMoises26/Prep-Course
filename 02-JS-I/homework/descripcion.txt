@@ -1,0 +1,7 @@
+FUNCIONES POR APRENDER
+  return Math.ceil(num);
+  return Math.round(num);
+  return Math.pow(num,exponent);
+  let var_sum = x+y
+  return var_sum
+  return Math.random(num);

@@ -427,7 +427,7 @@ La bandera rel solo le dirá al navegador qué tipo de archivo es y cómo proces
 
 La bandera href le dirá al navegador dónde encontrar el archivo. Si el archivo está en la misma carpeta que nuestro archivo html, podemos configurarlo en: "./styles.css" (esta ruta será relativa)
 
-```html
+x```html
 <link rel = "stylesheet" href = "./ styles.css" />
 ```
 
