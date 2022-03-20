@@ -214,7 +214,6 @@ function retornarPerimetro(lado){
   return lado*4;
 }
 
-
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
@@ -245,8 +244,6 @@ if (letra === "a" || letra === "e" || letra === "i" || letra=== "o"|| letra=== "
   "Dato incorrecto"
 }    
 }
-
-
 
 // No modificar nada debajo de esta línea
 // --------------------------------
