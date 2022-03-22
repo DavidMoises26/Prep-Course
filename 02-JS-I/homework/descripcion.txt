@@ -5,3 +5,46 @@ FUNCIONES POR APRENDER
   let var_sum = x+y
   return var_sum
   return Math.random(num);
+
+// No modificar nada debajo de esta línea
+// --------------------------------
+
+module.exports = {
+  nuevaString,
+  nuevoNum,
+  nuevoBool,
+  nuevaResta,
+  nuevaMultiplicacion,
+  nuevoModulo,
+  devolverString,
+  tienenMismaLongitud,
+  sonIguales,
+  menosQueNoventa,
+  mayorQueCincuenta,
+  suma,
+  resta,
+  divide,
+  multiplica,
+  obtenerResto,
+  esPar,
+  esImpar,
+  elevarAlCuadrado,
+  elevarAlCubo,
+  elevar,
+  redondearNumero,
+  redondearHaciaArriba,
+  numeroRandom,
+  esPositivo,
+  agregarSimboloExclamacion,
+  combinarNombres,
+  obtenerSaludo,
+  obtenerAreaRectangulo,
+  retornarPerimetro,
+  areaDelTriangulo,
+  deEuroAdolar,
+  esVocal,
+}
+Investigar "Prettier - Code formatter"
+
+>>toda funcion necesita devolver un valor.
+la funcion return "devuelve un valor"
